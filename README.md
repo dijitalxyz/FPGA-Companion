@@ -1,7 +1,9 @@
+# First entry and credits
 
-All the work and effort belongs to https://github.com/harbaum. I would like to thanks for sharing such a work with us.
+All the work and effort belongs to https://github.com/harbaum.
+I would like to thanks for sharing such a work with us.
 
-This fork was created to write additional explanations for the work on https://github.com/harbaum/NanoMig.
+This fork was created to write additional explanations for the work on https://github.com/harbaum/NanoMig and https://github.com/harbaum/FPGA-Companion
 
 # MiSTeryNano FPGA Companion
 
