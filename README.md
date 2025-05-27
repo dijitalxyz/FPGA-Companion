@@ -1,3 +1,8 @@
+
+All the work and effort belongs to https://github.com/harbaum. I would like to thanks for sharing such a work with us.
+
+This fork was created to write additional explanations for the work on https://github.com/harbaum/NanoMig.
+
 # MiSTeryNano FPGA Companion
 
 The MiSTeryNano FPGA Companion implements support functions for FPGA
